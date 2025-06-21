@@ -1,0 +1,17 @@
+export default [
+  { id: 1, title: "Casual T-Shirt", price: 19.99, image: require('./assets/tshirt.png') },
+  { id: 2, title: "Smart Watch", price: 49.99, image: require('./assets/watch.png') },
+  { id: 3, title: "Wireless Earbuds", price: 29.99, image: require('./assets/earbuds.png') },
+  { id: 4, title: "Bluetooth Speaker", price: 39.99, image: require('./assets/speaker.png') },
+  { id: 5, title: "Leather Wallet", price: 24.99, image: require('./assets/wallet.png') },
+  { id: 6, title: "Running Shoes", price: 59.99, image: require('./assets/shoes.png') },
+  { id: 7, title: "Gaming Mouse", price: 34.99, image: require('./assets/mouse.png') },
+  { id: 8, title: "Travel Backpack", price: 45.99, image: require('./assets/backpack.png') },
+  { id: 9, title: "Sunglasses", price: 19.99, image: require('./assets/sunglasses.png') },
+  { id: 10, title: "Laptop Stand", price: 32.99, image: require('./assets/laptopstand.png') },
+  { id: 11, title: "Coffee Mug", price: 14.99, image: require('./assets/mug.png') },
+  { id: 12, title: "Desk Lamp", price: 25.49, image: require('./assets/desklamp.png') },
+  { id: 13, title: "Power Bank", price: 29.99, image: require('./assets/powerbank.png') },
+  { id: 14, title: "Water Bottle", price: 12.99, image: require('./assets/bottle.png') },
+  { id: 15, title: "Phone Case", price: 9.99, image: require('./assets/phonecase.png') },
+];
